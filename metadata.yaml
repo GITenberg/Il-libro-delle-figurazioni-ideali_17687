@@ -1,0 +1,28 @@
+_repo: Il-libro-delle-figurazioni-ideali_17687
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lucini, Gian Pietro
+    birthdate: 1867
+    deathdate: 1914
+    gutenberg_agent_id: '7540'
+    url: http://www.gutenberg.org/2009/agents/7540
+    wikipedia: http://it.wikipedia.org/wiki/Gian_Pietro_Lucini
+description: ''
+gutenberg_bookshelf: IT Poesia
+gutenberg_issued: '2006-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17687'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PQ'
+title: Il libro delle figurazioni ideali
+url: http://www.gutenberg.org/ebooks/17687
